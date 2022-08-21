@@ -4,6 +4,6 @@
   echo " Pkistan ";
   echo " Afgamostan ";
   echo " Canada ";
-  echo " Korea ";
+  echo " Japan ";
 
 ?>
